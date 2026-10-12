@@ -3,7 +3,7 @@
 Every attention mechanism from May 2017 to December 2025, in the order it was published,
 each explained as an answer to a problem that existed at that moment — with honest trade-offs.
 
-Live: _(add Vercel URL after deploy)_
+Live: https://attention-timeline-with-visualizati.vercel.app/
 
 ## Run locally
 
